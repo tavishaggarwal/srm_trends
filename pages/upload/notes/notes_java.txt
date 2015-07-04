@@ -1,0 +1,8 @@
+int count = (int) (Math.log10(no) + 1); --> used to count no of digit in java.
+
+toCharArray(string); --> to convert string to char of array.
+
+Arrays.sort(no); --> to sort the number import java.util.Arrays;
+
+866139093448840
+2c8d7dbf90df3bee59f1bf0e0626276e
